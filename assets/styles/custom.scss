@@ -23,8 +23,8 @@ $sizes: 0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50; // Add more sizes as needed
   .br4-#{$size} { border-bottom-left-radius: $size + px; }
 
   .gap-#{$size} { gap: $size + px; }
-  .row-gap-#{$size} { row-gap: $size + px; }
-  .column-gap-#{$size} { column-gap: $size + px; }
+  .row-gap-#{$size} { row-gap: $size + px !important; }
+  .column-gap-#{$size} { column-gap: $size + px !important; }
 
   .icon-#{$size} {
     width: $size + px !important;
