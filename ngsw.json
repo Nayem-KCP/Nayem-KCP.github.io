@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1713435557514,
+  "timestamp": 1713438046743,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,14 +11,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/chunk-2TCZTT4Y.js",
-        "/chunk-FXJTUZH4.js",
+        "/chunk-7IDCTVK2.js",
+        "/chunk-QUGWFJUX.js",
         "/favicon.ico",
         "/index.html",
-        "/main-B34MNPRN.js",
+        "/main-3WLOXKTV.js",
         "/manifest.webmanifest",
         "/polyfills-RT5I6R6G.js",
-        "/styles-EWDQGPLG.css"
+        "/styles-7FDIWGVM.css"
       ],
       "patterns": []
     },
@@ -339,17 +339,17 @@
     "/assets/img/volume-inficator.png": "bf68ea11b0128cb7e0d7b35e2cf9c33baeeeabc3",
     "/assets/styles/bootstrap-grid.css": "dbf2091ca6d6d43274b3ad6444960afa5a406835",
     "/assets/styles/bootstrap-grid.min.css": "036aa3d14691ef12299a5265a3459dd376394e49",
-    "/assets/styles/custom.scss": "f08ba551cee72d43b367f6bb3932c699fe210ab5",
+    "/assets/styles/custom.scss": "227b0c078d83c6edc57b6c0cc6e078c6ceb21e44",
     "/assets/styles/reset.css": "8514905ff9fed78ca16f26389796906b4205822b",
-    "/chunk-2TCZTT4Y.js": "ed1de97db198a924e9accb19c12728c98d5d7102",
-    "/chunk-FXJTUZH4.js": "f0f70d73dd31569d4db5b731599b5fb84adabc2c",
+    "/chunk-7IDCTVK2.js": "8f40322e43ee1e0c5cd7d57d0eb707e28e642326",
+    "/chunk-QUGWFJUX.js": "f919b97c62fc9f4bbc2ecb0b9f89b7bc2c0dc809",
     "/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "/index.html": "269c5be7c5f144513ff171c927a9184fd71ee10b",
-    "/main-B34MNPRN.js": "71e4e23edf404086634a5c917d38970b5f4a1a70",
+    "/index.html": "15ea4dec98473e86a45011f541dc88cf0525e660",
+    "/main-3WLOXKTV.js": "aa96e41ca7c6ee8d8fcc19a92e86c7df2c18b699",
     "/manifest.webmanifest": "bab4eb27a4a8b9ef3cc6193ccf2ee1dc7f906f78",
     "/media/Poppins-Light-RMQAEPUP.ttf": "e247a92158e112f8bf7b638c8d95381d66b00dbb",
     "/polyfills-RT5I6R6G.js": "fe9f024576f21ff6314cf8f8332cde58b9a12416",
-    "/styles-EWDQGPLG.css": "5e55304a2fae04b59f50649bf27e5133a616fc9c"
+    "/styles-7FDIWGVM.css": "d31858943cd49bbd89ab607c83e49c9f86c56047"
   },
   "navigationUrls": [
     {

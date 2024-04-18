@@ -91,6 +91,11 @@ $sizes: 0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50; // Add more sizes as needed
   align-items: center;
   justify-content: center;
 }
+.flex-between {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
 
 .d-flex { display: flex !important; }
 .flex-wrap { flex-wrap: wrap !important; }
