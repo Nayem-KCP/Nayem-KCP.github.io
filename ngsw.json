@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1707400683570,
+  "timestamp": 1713435557514,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,12 +11,14 @@
         "ignoreVary": true
       },
       "urls": [
+        "/chunk-2TCZTT4Y.js",
+        "/chunk-FXJTUZH4.js",
+        "/favicon.ico",
         "/index.html",
-        "/main.aa466a9c60a8c56e.js",
+        "/main-B34MNPRN.js",
         "/manifest.webmanifest",
-        "/polyfills.f04f6b888004f596.js",
-        "/runtime.e705259221a7fb32.js",
-        "/styles.4e7cc879dc68ba4d.css"
+        "/polyfills-RT5I6R6G.js",
+        "/styles-EWDQGPLG.css"
       ],
       "patterns": []
     },
@@ -28,7 +30,6 @@
         "ignoreVary": true
       },
       "urls": [
-        "/Poppins-Light.8b20023e8f811f53.ttf",
         "/assets/fonts/Poppins-Black.ttf",
         "/assets/fonts/Poppins-BlackItalic.ttf",
         "/assets/fonts/Poppins-Bold.ttf",
@@ -54,6 +55,7 @@
         "/assets/icons/android/android-launchericon-72-72.png",
         "/assets/icons/android/android-launchericon-96-96.png",
         "/assets/icons/icons.json",
+        "/assets/icons/icons/lights.svg",
         "/assets/icons/ios/100.png",
         "/assets/icons/ios/1024.png",
         "/assets/icons/ios/114.png",
@@ -160,21 +162,33 @@
         "/assets/icons/windows11/Wide310x150Logo.scale-150.png",
         "/assets/icons/windows11/Wide310x150Logo.scale-200.png",
         "/assets/icons/windows11/Wide310x150Logo.scale-400.png",
+        "/assets/icons_copia/icon-128x128.png",
+        "/assets/icons_copia/icon-144x144.png",
+        "/assets/icons_copia/icon-152x152.png",
+        "/assets/icons_copia/icon-192x192.png",
+        "/assets/icons_copia/icon-384x384.png",
+        "/assets/icons_copia/icon-512x512.png",
+        "/assets/icons_copia/icon-72x72.png",
+        "/assets/icons_copia/icon-96x96.png",
+        "/assets/img/1701690489649.588813_0",
         "/assets/img/conqora-logo.png",
+        "/assets/img/default_music.jpg",
         "/assets/img/kcp-logo-white.png",
+        "/assets/img/mp3played.gif",
+        "/assets/img/recepcion.jpg",
         "/assets/img/tpm-cover.png",
         "/assets/img/volume-inficator.png",
         "/assets/styles/bootstrap-grid.css",
         "/assets/styles/bootstrap-grid.min.css",
         "/assets/styles/custom.scss",
-        "/assets/styles/reset.css"
+        "/assets/styles/reset.css",
+        "/media/Poppins-Light-RMQAEPUP.ttf"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/Poppins-Light.8b20023e8f811f53.ttf": "e247a92158e112f8bf7b638c8d95381d66b00dbb",
     "/assets/fonts/Poppins-Black.ttf": "645e04c53c6b5b35bce654a811ebce16af8aa721",
     "/assets/fonts/Poppins-BlackItalic.ttf": "be4ef2aac7775a4b0179c0ecfce6cea8f7783f63",
     "/assets/fonts/Poppins-Bold.ttf": "875cf0cecd647bcf22e79d633d868c1b1ec98dfa",
@@ -200,6 +214,7 @@
     "/assets/icons/android/android-launchericon-72-72.png": "a5c5065805aa7dbd6cbf95978bb67e758c4ca560",
     "/assets/icons/android/android-launchericon-96-96.png": "250075e64bde8832830173d2c1acbf9715a224ea",
     "/assets/icons/icons.json": "4dabf49b3e3ad842473ac2eea4cd43e371990462",
+    "/assets/icons/icons/lights.svg": "fb9ed3ee61af3d34636293e0721ed7088ebe54fd",
     "/assets/icons/ios/100.png": "c2d6343492ab41a789885202273f48656f8c3fc9",
     "/assets/icons/ios/1024.png": "024c13ab8cdba795a6ca8ec8ac83a379467f1893",
     "/assets/icons/ios/114.png": "dd74150873682b7ea76239b8bab7784f0fd66cfe",
@@ -306,20 +321,35 @@
     "/assets/icons/windows11/Wide310x150Logo.scale-150.png": "3f1bcbcdf2f19021b205d9d954beafc50bad08ec",
     "/assets/icons/windows11/Wide310x150Logo.scale-200.png": "d5aad3490b7d494af6628c3b346f956881ca4cd5",
     "/assets/icons/windows11/Wide310x150Logo.scale-400.png": "bb5e52a3e939296fc412736f7ba72b9da5ae1c2f",
-    "/assets/img/conqora-logo.png": "a29f9e322d48d6450f1c301246e3207b6a8131ba",
+    "/assets/icons_copia/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/assets/icons_copia/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/assets/icons_copia/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/assets/icons_copia/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/assets/icons_copia/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/assets/icons_copia/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/assets/icons_copia/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/assets/icons_copia/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/assets/img/1701690489649.588813_0": "adc0107ea7fce0d4391c5f330ab1180de3ae841a",
+    "/assets/img/conqora-logo.png": "5b550a5fd35dc804f0a7d374f7a3898a21f033a2",
+    "/assets/img/default_music.jpg": "331daef51be650e7a3199947f41621e23dcd6cf5",
     "/assets/img/kcp-logo-white.png": "06af6b894edfa6dd8617cd621b4581bdd6d39cc9",
+    "/assets/img/mp3played.gif": "3db9893d9b4ff999c1eaa1690a53fd704c896bbe",
+    "/assets/img/recepcion.jpg": "760ab121409039f530d6007a1f90c61b64a75672",
     "/assets/img/tpm-cover.png": "8f6049ec13dc87b2664886e28e186174e702f01f",
     "/assets/img/volume-inficator.png": "bf68ea11b0128cb7e0d7b35e2cf9c33baeeeabc3",
-    "/assets/styles/bootstrap-grid.css": "272acd7e0d991eb9c059bfb03ee7e05c5a157125",
-    "/assets/styles/bootstrap-grid.min.css": "da653b87fc9560f04b0f9a659cbff6bb532aac89",
-    "/assets/styles/custom.scss": "95889f1de4dbfdfbb3da52a9c6921a9beb8715e2",
+    "/assets/styles/bootstrap-grid.css": "dbf2091ca6d6d43274b3ad6444960afa5a406835",
+    "/assets/styles/bootstrap-grid.min.css": "036aa3d14691ef12299a5265a3459dd376394e49",
+    "/assets/styles/custom.scss": "f08ba551cee72d43b367f6bb3932c699fe210ab5",
     "/assets/styles/reset.css": "8514905ff9fed78ca16f26389796906b4205822b",
-    "/index.html": "6fce21177d3c1197c654c36cb49ab05e6812e283",
-    "/main.aa466a9c60a8c56e.js": "9faa590c6640da0ecfed168fe5c8f50a3e6f520d",
-    "/manifest.webmanifest": "cb4537d56599e91ebbaf83b8283d2791973ca255",
-    "/polyfills.f04f6b888004f596.js": "89d289b410738363f116894d9adc9da76bf7ac22",
-    "/runtime.e705259221a7fb32.js": "5c37b7d37930c785bc7289596853ccedc9394ddd",
-    "/styles.4e7cc879dc68ba4d.css": "7e0bb625a3da28fe9dd2aa63114778800bc0e8b8"
+    "/chunk-2TCZTT4Y.js": "ed1de97db198a924e9accb19c12728c98d5d7102",
+    "/chunk-FXJTUZH4.js": "f0f70d73dd31569d4db5b731599b5fb84adabc2c",
+    "/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/index.html": "269c5be7c5f144513ff171c927a9184fd71ee10b",
+    "/main-B34MNPRN.js": "71e4e23edf404086634a5c917d38970b5f4a1a70",
+    "/manifest.webmanifest": "bab4eb27a4a8b9ef3cc6193ccf2ee1dc7f906f78",
+    "/media/Poppins-Light-RMQAEPUP.ttf": "e247a92158e112f8bf7b638c8d95381d66b00dbb",
+    "/polyfills-RT5I6R6G.js": "fe9f024576f21ff6314cf8f8332cde58b9a12416",
+    "/styles-EWDQGPLG.css": "5e55304a2fae04b59f50649bf27e5133a616fc9c"
   },
   "navigationUrls": [
     {

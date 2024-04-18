@@ -84,6 +84,7 @@ $sizes: 0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50; // Add more sizes as needed
 .lh-1 { line-height: 1 !important; }
 .text-center { text-align: center !important; }
 .text-end { text-align: right !important; }
+.cursor { cursor: pointer; }
 
 .flex-center {
   display: flex;
